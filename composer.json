@@ -1,0 +1,11 @@
+{
+    "name": "vendor/framework-standard-edition",
+    "description": "Description of project framework-standard-edition.",
+    "authors": [
+        {
+            "name": "optima",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
